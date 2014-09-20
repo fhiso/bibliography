@@ -12,3 +12,7 @@ imply endorsement by FHISO, nor does it guarantee that the material will
 be considered during FHISO's exploratory work.  To request that work is
 included in this bibliography, please contact the bibliography editor by
 email at <bibliography@fhiso.org>.
+
+The main part of the bibliography can be found in
+[bibliography.md](bibliography.md).  In due course, this will be made
+available on our website.
