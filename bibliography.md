@@ -25,6 +25,10 @@ W3CDTF, *W3C* (http://www.w3.org/TR/NOTE-datetime) -- The cut-down version of IS
 
 *The Calendar FAQ* (http://www.tondering.dk/claus/calendar.html) -- Common questions about calendars.
 
+##Entity Relationships##
+
+Tony Proctor, "The Lineage Trap", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/09/the-lineage-trap.html) -- How the identification of generic "subject entities" helps with an approach accommodating micro-history.
+
 ##Events##
 
 Tony Proctor, "Eventful Genealogy", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/11/eventful-genealogy.html) -- How Events can become a major component in coordinating our data, using protracted and hierarchical event descriptions.
