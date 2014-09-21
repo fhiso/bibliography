@@ -45,8 +45,6 @@ Tony Proctor, "Digital Freedom", *Parallax View* (http://parallax-viewpoint.blog
 
 "Family", *Wikipedia* (http://en.wikipedia.org/wiki/Family) -- Concept variations around the world.
 
-Tony Proctor, "Family Units", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/08/family-units.html) -- Basic examination of whether a 'family unit' is a practical concept, and whether it's just a conclusion.
-
 Tony Proctor, "Revisiting the Family Group", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/02/revisiting-family-group.html) -- Follow-up to 'Family Units' that elevated the Group concept to a top-level entity for micro-history usage.
 
 Tony Proctor, "Happy Families", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/07/happy-families.html) -- Important separation of the concepts of biological lineage, family units, and bonding ceremonies (such as marriage).
@@ -170,6 +168,18 @@ Tony Proctor, "Where are the Standards for Historical Data?", *Parallax View* (h
 "E.164", *Wikipedia* (http://en.wikipedia.org/wiki/E.164) -- Standard for representation of worldwide telephone numbers.
 
 "Ordnance survey National Grid", *Wikipedia* (https://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid) -- Coordinate system used widely in UK.
+
+"json-ld", *w3c* (http://json-ld.org/) -- JSON for Linking Data.
+
+"PROV-N: The Provenance Notation", *W3C* (http://www.w3.org/TR/2013/REC-prov-n-20130430/) -- Part of the PROV family of documenents, describes a "human-readable" provenance notation.
+
+##Technologies##
+
+"Dat", *Max Ogden* (http://dat-data.com/) -- Dat is an open source project that is intended to provide a streaming interface between every file format anddata storage backend.
+
+"Data Protocols", *Open Knowledge Foundation Labs* (http://dataprotocols.org/) -- Projects include Data Packages, JSON Table Schema, and other proposals for self-documenting bundles of open data.
+
+"CSV Schema 1.0", *UK National Archives* (http://digital-preservation.github.io/csv-schema/csv-schema-1.0.html) -- Format/language for transferring and validating historical data in CSV.
 
 ##Transcription##
 
