@@ -13,6 +13,4 @@ be considered during FHISO's exploratory work.  To request that work is
 included in this bibliography, please contact the bibliography editor by
 email at <bibliography@fhiso.org>.
 
-The main part of the bibliography can be found in
-[bibliography.md](bibliography.md).  In due course, this will be made
-available on our website.
+The main part of the bibliography can be found in [bibliography.md](bibliography.md). There is a separate area for documentation resources for published Data Models in [datamodels.md](datamodels.md). In due course, these will be made available on our website.
