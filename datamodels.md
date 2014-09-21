@@ -4,7 +4,7 @@
 
 "DeadEnds Data Model", *BetterGEDCOM wiki* (http://bettergedcom.wikispaces.com/DeadEnds+Model)
 
-NB: the online available documentation is quite old and an updated version is currently being drafted by the author (Tom Wetmore).
+NB: the available online documentation is quite old and an updated version is currently being drafted by the author (Tom Wetmore).
 
 ##Event Gedcom##
 
