@@ -24,7 +24,7 @@ NB: the available online documentation is quite old and an updated version is cu
 
 ##GEDCOM-X##
 
-"GEDCOM X", *gedcomx.org* (http://www.gedcomx.org/) -- Specification.
+"GEDCOM X", *gedcomx.org* (http://www.gedcomx.org/Specifications.html) -- Specification.
 
 ##GedML Format##
 
