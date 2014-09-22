@@ -155,7 +155,9 @@ Tony Proctor, "Where are the Standards for Historical Data?", *Parallax View* (h
 
 "ISO/IEC 10646" (Unicode), *Wikipedia*  (http://en.wikipedia.org/wiki/Unicode) -- Global character/symbol standard, including encoding such as UTF-8.
 
-"ISO 19160", Addressing (http://www.isotc211.org/address/iso19160.htm) -- Tentative standard for worldwide addresses.
+ISO 16684-1:2012 (aka Extensible Metadata Platform, XMP), *Adobe* (http://www.adobe.com/products/xmp.html) -- Open XML/RDF-based standard for tagging media files with rich metadata, and which can be extended to serialize custom metadata types.
+
+"ISO 19160", *ISO TC211* (http://www.isotc211.org/address/iso19160.htm) -- Tentative standard for worldwide addresses.
 
 "International Classification for Standards (ICS)", *Wikipedia*  (https://en.wikipedia.org/wiki/International_Classification_for_Standards) -- Classification of technical standards.
 
@@ -172,6 +174,10 @@ Tony Proctor, "Where are the Standards for Historical Data?", *Parallax View* (h
 "json-ld", *w3c* (http://json-ld.org/) -- JSON for Linking Data.
 
 "PROV-N: The Provenance Notation", *W3C* (http://www.w3.org/TR/2013/REC-prov-n-20130430/) -- Part of the PROV family of documenents, describes a "human-readable" provenance notation.
+
+"Guidelines for Handling Image Metadata", *Metadata Working Group* (http://www.metadataworkinggroup.org/specs/) -- Describes how to use existing standards such as Exif, IPTC, and XMP.
+
+"ANSI/NISO Z39.19-2005 (R2010)", *NISO* (http://www.niso.org/apps/group_public/project/details.php?project_id=46) -- Guidelines for the Construction, Format, and Management of Monolingual Controlled Vocabularies.
 
 ##Technologies##
 
