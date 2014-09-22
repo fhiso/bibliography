@@ -42,6 +42,22 @@ NB: the available online documentation is quite old and an updated version is cu
 
 ##GRAMPS##
 
+"Gramps 4.1 Wiki Manual", *Gramps project* (https://gramps-project.org/wiki/index.php?title=Gramps_4.1_Wiki_Manual) -- User Manual.
+
+NB: Majority of online material is for 4.0 rather than the latest 4.1.
+
+"Using database API", *Gramps Project* (https://gramps-project.org/wiki/index.php?title=Using_database_API) -- Database API.
+
+"RELAX NG schema", *Gramps Project* (http://gramps-project.org/xml/1.6.0/grampsxml.rng)
+
+"Document Type Definition (DTD)", *Gramps Project* (http://gramps-project.org/xml/1.6.0/grampsxml.dtd)
+
+"Dates", *Gramps project* (https://gramps-project.org/wiki/index.php?title=Dates) -- Date handling.
+
+"GEPS 021: Additional Name Fields", *Gramps Project* (https://gramps-project.org/wiki/index.php?title=GEPS_021:_Additional_Name_Fields) -- Gramps Enhancement Proposal to add new fields to the name object so as to better store a person's name for several cultures.
+
+"Hierarchical Place Structure", *Gramps Project* (https://gramps-project.org/wiki/index.php?title=Hierarchical_Place_Structure) -- Description of hierarchical approach to handling place entities.
+
 "Gramps Data Model", *BetterGEDCOM wiki* (http://bettergedcom.wikispaces.com/GRAMPS+Data+Model)
 
 ##OpenGen##
