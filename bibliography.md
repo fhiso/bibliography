@@ -45,6 +45,10 @@ Tony Proctor, "Digital Freedom", *Parallax View* (http://parallax-viewpoint.blog
 
 "Family", *Wikipedia* (http://en.wikipedia.org/wiki/Family) -- Concept variations around the world.
 
+Tamura Jones, "Family in Traditional Genealogy Software", *Modern Software Experience* (http://www.tamurajones.net/FamilyInTraditionalGenealogySoftware.xhtml)
+
+Tamura Jones, "Family in Scientific Genealogy", *Modern Software Experience* (http://www.tamurajones.net/FamilyInScientificGenealogy.xhtml)
+
 Tony Proctor, "Revisiting the Family Group", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/02/revisiting-family-group.html) -- Follow-up to 'Family Units' that elevated the Group concept to a top-level entity for micro-history usage.
 
 Tony Proctor, "Happy Families", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/07/happy-families.html) -- Important separation of the concepts of biological lineage, family units, and bonding ceremonies (such as marriage).
