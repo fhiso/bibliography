@@ -113,6 +113,12 @@ Tony Proctor, "Time-dependent Attributes", *Parallax View* (http://parallax-view
 
 "Sources, Information, Evidence", *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/sources-information-evidence) -- Clarifies the terms used in QuickLesson 13.
 
+Bell, Mary McCampbell, "Transcripts and Abstracts", Chapter 16 in E. S. Mills et al., eds., *Professional Genealogy: A Manual for Researchers, Writers, Editors, Lecturers, and Librarians* (Baltimore: Genealogical Publishing Co., 2001), Pages 291–326 -- Covers the standards and the processes for creating various kinds of derivatives, with step-by-step examples.
+
+Board  for Certification of Genealogists, *Genealogical Standards* (Nashville and New York: Ancestry Imprint, Turner Publishing, 2014) -- Identifies and describes the essential quality-control standards for genealogical research, analysis, reporting, and teaching. Has an excellent glossary. This is a significant update of the original *Genealogical Standards Manual* of 2000.
+
+Jones, Thomas W., Dr., *Mastering Genealogical Proof* (Arlington, Va.: National Genealogical Society, 2013) -- Covers principles, processes, terminology, and standards for developing “information” into “proof” that will withstand the test of time. It, too, has an excellent glossary.
+
 Tony Proctor, "You're Probably Right", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/01/youre-probably-right.html) -- Examination of the use of probability, and especially of Bayesian probabilities.
 
 Tony Proctor, "Genealogical Persona Non Grata", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/09/genealogical-persona-non-grata.html) -- Discussion of personae, and relationship to STEMMA model.
