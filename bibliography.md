@@ -113,11 +113,9 @@ Tony Proctor, "Time-dependent Attributes", *Parallax View* (http://parallax-view
 
 "Sources, Information, Evidence", *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/sources-information-evidence) -- Clarifies the terms used in QuickLesson 13.
 
-Bell, Mary McCampbell, "Transcripts and Abstracts", Chapter 16 in E. S. Mills et al., eds., *Professional Genealogy: A Manual for Researchers, Writers, Editors, Lecturers, and Librarians* (Baltimore: Genealogical Publishing Co., 2001), Pages 291–326 -- Covers the standards and the processes for creating various kinds of derivatives, with step-by-step examples.
+Board  for Certification of Genealogists. *Genealogical Standards*. Nashville and New York: Ancestry Imprint, Turner Publishing, 2014 -- Identifies and describes the essential quality-control standards for genealogical research, analysis, reporting, and teaching. Has an excellent glossary. This is a significant update of the original *Genealogical Standards Manual* of 2000.
 
-Board  for Certification of Genealogists, *Genealogical Standards* (Nashville and New York: Ancestry Imprint, Turner Publishing, 2014) -- Identifies and describes the essential quality-control standards for genealogical research, analysis, reporting, and teaching. Has an excellent glossary. This is a significant update of the original *Genealogical Standards Manual* of 2000.
-
-Jones, Thomas W., Dr., *Mastering Genealogical Proof* (Arlington, Va.: National Genealogical Society, 2013) -- Covers principles, processes, terminology, and standards for developing “information” into “proof” that will withstand the test of time. It, too, has an excellent glossary.
+Jones, Thomas W., Dr. *Mastering Genealogical Proof*. Arlington, Va.: National Genealogical Society, 2013 -- Covers principles, processes, terminology, and standards for developing “information” into “proof” that will withstand the test of time. It has an excellent glossary.
 
 Tony Proctor, "You're Probably Right", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/01/youre-probably-right.html) -- Examination of the use of probability, and especially of Bayesian probabilities.
 
@@ -133,7 +131,7 @@ Tony Proctor, "No Sex Please, We're Genealogists!", *Parallax View* (http://para
 
 ##Sources/Citations##
 
-Mills, Elizabeth Shown. *Evidence Explained: Citing History Sources from Artifacts to Cyberspace.*  2nd ed.  Baltimore: Genealogical Publishing Co., 2009.
+Mills, Elizabeth Shown. *Evidence Explained: Citing History Sources from Artifacts to Cyberspace*  2nd ed.  Baltimore: Genealogical Publishing Co., 2009 -- Fundamentals of analysing evidence and citing sources, including samples for many source types.
 
 Tony Proctor, "Cite Seeing", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/09/cite-seeing.html) -- Scheme accommodating layered citations, discursive notes, annotation, analytic citation notes, and multiple sources per citation.
 
@@ -198,6 +196,8 @@ ISO 16684-1:2012 (aka Extensible Metadata Platform, XMP), *Adobe* (http://www.ad
 "CSV Schema 1.0", *UK National Archives* (http://digital-preservation.github.io/csv-schema/csv-schema-1.0.html) -- Format/language for transferring and validating historical data in CSV.
 
 ##Transcription##
+
+Bell, Mary McCampbell. "Transcripts and Abstracts". Chapter 16 in E. S. Mills et al., eds. *Professional Genealogy: A Manual for Researchers, Writers, Editors, Lecturers, and Librarians*. Baltimore: Genealogical Publishing Co., 2001. Pages 291–326 -- Covers the standards and the processes for creating various kinds of derivatives, with step-by-step examples.
 
 "Editorial Method for Journals, Volume 1", *The Joseph smith Papers* (http://josephsmithpapers.org/back/editorial-method-for-journals-volume-1) -- Useful list of terms, concepts, and conventions for transcription.
 
