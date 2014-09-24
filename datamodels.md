@@ -4,7 +4,7 @@
 
 "DeadEnds Data Model", *BetterGEDCOM wiki* (http://bettergedcom.wikispaces.com/DeadEnds+Model)
 
-NB: the available online documentation is quite old and an updated version is currently being drafted by the author (Tom Wetmore).
+"Other Documents", *bartonstreet.com* (http://www.bartonstreet.com/deadends/) -- Various documents for DeadEnds model and the LifeLines product. NB: the available online documentation is quite old and an updated version is currently being drafted by the author (Tom Wetmore).
 
 ##Event Gedcom##
 
@@ -70,4 +70,4 @@ NB: Majority of online material is for 4.0 rather than the latest 4.1.
 
 ##STEMMA##
 
-"STEMMA Project", *Parallax View* (http://www.parallaxview.co/familyhistorydata/) -- Specification.
+"STEMMA Project", *Parallax View* (http://www.parallaxview.co/familyhistorydata/) -- Specification and several case studies.
