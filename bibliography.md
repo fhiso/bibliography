@@ -187,6 +187,8 @@ ISO 16684-1:2012 (aka Extensible Metadata Platform, XMP), *Adobe* (http://www.ad
 
 "ANSI/NISO Z39.19-2005 (R2010)", *NISO* (http://www.niso.org/apps/group_public/project/details.php?project_id=46) -- Guidelines for the Construction, Format, and Management of Monolingual Controlled Vocabularies.
 
+"Key words for use in RFCs to Indicate Requirement Levels", *IETF* (http://www.ietf.org/rfc/rfc2119.txt) -- Recommended semantics for words such as "MUST", "MUST NOT", "REQUIRED", "SHALL" in IETF 'Request For Comments' docvuments.
+
 ##Technologies##
 
 "Dat", *Max Ogden* (http://dat-data.com/) -- Dat is an open source project that is intended to provide a streaming interface between every file format anddata storage backend.
