@@ -4,7 +4,9 @@
 
 "DeadEnds Data Model", *BetterGEDCOM wiki* (http://bettergedcom.wikispaces.com/DeadEnds+Model)
 
-"Other Documents", *bartonstreet.com* (http://www.bartonstreet.com/deadends/) -- Various documents for DeadEnds model and the LifeLines product. NB: the available online documentation is quite old and an updated version is currently being drafted by the author (Tom Wetmore).
+"Other Documents", *bartonstreet.com* (http://www.bartonstreet.com/deadends/) -- Various documents for DeadEnds model and the LifeLines product.
+
+"The DeadEnds Data Model", *bartonstreet.com* (http://bartonstreet.com/deadends/DeadEndsModel.3.pdf) -- Recent (Sep 2014) update by the author (Tom Wetmore) given that the other online documentation is now quite old.
 
 ##Event Gedcom##
 
