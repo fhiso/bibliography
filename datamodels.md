@@ -1,5 +1,7 @@
 #Data Models#
 
+List of resources for published genealogical data models. Each entry, below, can be linked directly by using a URL with a trailing 'fragment identifier' (e.g. https://github.com/fhiso/bibliography/blob/master/datamodels.md#gedcom). The identifier names are, by default, the lower-cased headings with spaces replaced with hyphens (e.g. #event-gedcom).
+
 ##DeadEnds##
 
 "DeadEnds Data Model", *BetterGEDCOM wiki* (http://bettergedcom.wikispaces.com/DeadEnds+Model)
