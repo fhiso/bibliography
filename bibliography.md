@@ -203,7 +203,10 @@ Ian Davis & David Galbraith, "BIO: A vocabulary for biographical information" (h
 
 Ian Davis & Eric Vitiello Jn, "RELATIONSHIP: A vocabulary for describing relationships between people" (http://vocab.org/relationship/.html) -- Vocabulary for relationships (including genealogical ones) built on top of FOAF.
 
-Tom Heath & Christian Bizer, "Linked Data: Evolving the Web into a Global Data Space" (2011, Morgan & Claypool), also online http://linkeddatabook.com/editions/1.0/ -- a popular guide to the various linked data technologies and vocabularies.
+Tom Heath & Christian Bizer, "Linked Data: Evolving the Web into a Global Data Space" (Morgan & Claypool, 2011), also online http://linkeddatabook.com/editions/1.0/ -- a popular guide to the various linked data technologies and vocabularies.
+
+"RDF 1.1 Primer", *World Wide Web Consortium* (http://www.w3.org/TR/rdf11-primer/) -- A technical introduction to RDF 
+emphasising the newer non-XML serialisations.
 
 ##Transcription##
 
