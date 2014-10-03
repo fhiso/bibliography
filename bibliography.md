@@ -197,6 +197,14 @@ ISO 16684-1:2012 (aka Extensible Metadata Platform, XMP), *Adobe* (http://www.ad
 
 "CSV Schema 1.0", *UK National Archives* (http://digital-preservation.github.io/csv-schema/csv-schema-1.0.html) -- Format/language for transferring and validating historical data in CSV.
 
+Dan Brickley & Libby Miller, "FOAF Vocabulary Specification 0.99" (http://xmlns.com/foaf/spec/) -- Vocabulary for describing people, originally designed for social networking sites, but now the de facto standard for describing people on the semantic web.
+
+Ian Davis & David Galbraith, "BIO: A vocabulary for biographical information" (http://vocab.org/bio/0.1/.html) -- Vocabulary for biographical events built on top of FOAF.
+
+Ian Davis & Eric Vitiello Jn, "RELATIONSHIP: A vocabulary for describing relationships between people" (http://vocab.org/relationship/.html) -- Vocabulary for relationships (including genealogical ones) built on top of FOAF.
+
+Tom Heath & Christian Bizer, "Linked Data: Evolving the Web into a Global Data Space" (2011, Morgan & Claypool), also online http://linkeddatabook.com/editions/1.0/ -- a popular guide to the various linked data technologies and vocabularies.
+
 ##Transcription##
 
 Bell, Mary McCampbell. "Transcripts and Abstracts". Chapter 16 in E. S. Mills et al., eds. *Professional Genealogy: A Manual for Researchers, Writers, Editors, Lecturers, and Librarians*. Baltimore: Genealogical Publishing Co., 2001. Pages 291–326 -- Covers the standards and the processes for creating various kinds of derivatives, with step-by-step examples.
