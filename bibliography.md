@@ -119,6 +119,10 @@ Jones, Thomas W., Dr. *Mastering Genealogical Proof*. Arlington, Va.: National G
 
 Tony Proctor, "You're Probably Right", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/01/youre-probably-right.html) -- Examination of the use of probability, and especially of Bayesian probabilities.
 
+H. B. Newcombe, J. M. Kennedy, S. J. Axford, and A. P. James, "Automatic Linkage of Vital Records", *Science*, Vol. 130, No. 3381 (16 October 1959): 954–959; online image (http://bartonstreet.com/Newcombe.1959.pdf : accessed 2014-10-05) -- Early work related to persona, although not by that name.
+
+Howard B. Newcombe, "Record Linking: The Design of Efficient Systems for Linking Records into Individual Family Histories", *American Journal of Human Genetics*, Vol. 19, No. 3, Part I (May 1967): 13–37; online image (http://bartonstreet.com/Newcombe.1967.pdf : accessed 2014-10-05) -- Early work related to persona, although not by that name.
+
 Tony Proctor, "Genealogical Persona Non Grata", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/09/genealogical-persona-non-grata.html) -- Discussion of personae, and relationship to STEMMA model.
 
 Tony Proctor, "Evidence and Where to Stick It", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/11/evidence-and-where-to-stick-it.html) -- Discussion of where sources and attachments are placed in our data, and relevance of Events.
