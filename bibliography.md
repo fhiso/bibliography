@@ -45,6 +45,8 @@ Tony Proctor, "Digital Freedom", *Parallax View* (http://parallax-viewpoint.blog
 
 "Family", *Wikipedia* (http://en.wikipedia.org/wiki/Family) -- Concept variations around the world.
 
+Daphne Lofquist, Terry Lugaila, Martin O’Connell, and Sarah Feliz, "2010 Census Briefs: Households and Families: 2010", *U.S. Census Bureau*, April 2012 (http://www.census.gov/prod/cen2010/briefs/c2010br-14.pdf) -- Information about household relationships in US census.
+
 Tamura Jones, "Family in Traditional Genealogy Software", *Modern Software Experience* (http://www.tamurajones.net/FamilyInTraditionalGenealogySoftware.xhtml)
 
 Tamura Jones, "Family in Scientific Genealogy", *Modern Software Experience* (http://www.tamurajones.net/FamilyInScientificGenealogy.xhtml)
