@@ -113,7 +113,7 @@ Tony Proctor, "Semantic Tagging of Historical Data", *Parallax View* (http://par
 
 Tony Proctor, "Structured Narrative", *STEMMA Project* (www.parallaxview.co/familyhistorydata/downloads/StructuredNarrative.pdf) -- worked example of semantic mark-up in STEMMA.
 
-Louis Kessler, "Markup in GEDCOM", *Louis Kessler's Behold Blog*, 2011-03-05 (http://www.beholdgenealogy.com/blog/?p=808) -- Why markup is bad and should be limited.
+Louis Kessler, "Markup in GEDCOM", *Louis Kessler's Behold Blog*, 2011-03-05 (http://www.beholdgenealogy.com/blog/?p=808) -- Why presentational markup is bad and should be limited.
 
 ##Places##
 
