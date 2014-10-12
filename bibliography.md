@@ -5,6 +5,26 @@ FHISO Bibliography
 
 Tony Proctor, "Ashes to Ashes, Artefacts to Bits", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/05/ashes-to-ashes-artefacts-to-bits.html) -- Relationship of physical artefacts to digital images.
 
+##Core Concepts##
+
+Louis Kessler, "Genealogy Technology - Random Thoughts", *Louis Kessler's Behold Blog*, 2014-08-13 (http://www.beholdgenealogy.com/blog/?p=1386) -- Discussion of some incorrect thinking going on in the technical genealogy world.
+
+Louis Kessler, "What Should Genealogy Software Do - Really!", *Louis Kessler's Behold Blog*, 2013-11-28 (http://www.beholdgenealogy.com/blog/?p=1343) -- Ideas about genealogy software.
+
+Louis Kessler, "A Recipe for GEDCOM", *Louis Kessler's Behold Blog*, 2013-08-03 (http://www.beholdgenealogy.com/blog/?p=1322) -- What's needed in a new standard.
+
+Louis Kessler, "Nine Necessities in a GEDCOM Replacement", *Louis Kessler's Behold Blog*, 2013-06-05 (http://www.beholdgenealogy.com/blog/?p=1313) -- This was the paper submitted to FHISO as CFPS 78.
+
+Louis Kessler, "Michael Hait's Perfect Genealogy Software Program", *Louis Kessler's Behold Blog*, 2012-10-22 (http://www.beholdgenealogy.com/blog/?p=1137) -- A discussion of various aspects of what genealogy software does and should do.
+
+Louis Kessler, "Get the Core Right First", *Louis Kessler's Behold Blog*, 2012-06-21 (http://www.beholdgenealogy.com/blog/?p=1098) -- Includes discussion about picking a new standard that is not complex.
+
+Louis Kessler, "6 Bad Things About Today's Genealogy Software", *Louis Kessler's Behold Blog*, 2011-11-20 (http://www.beholdgenealogy.com/blog/?p=875) -- This lists the essential things to consider .
+
+Louis Kessler, "Build a BetterGEDCOM or learn GEDCOMBetter?", *Louis Kessler's Behold Blog*, 2011-01-05 (http://www.beholdgenealogy.com/blog/?p=803) -- Discusses that GEDOM isn't that bad and could be the basis of a new standard.
+
+Louis Kessler, "BetterGEDCOM", *Louis Kessler's Behold Blog*. 2010-12-07 (http://www.beholdgenealogy.com/blog/?p=795) -- Ideas about building a new standard.
+
 ##Databases/Indexing/Searching##
 
 Tony Proctor, "Do Genealogists Really Need a Database?", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/10/do-genealogists-really-need-database.html) -- The argument for in-memory indexing, loaded directly from source files, and the advantages for sharing and storage.
@@ -25,6 +45,10 @@ W3CDTF, *W3C* (http://www.w3.org/TR/NOTE-datetime) -- The cut-down version of IS
 
 *The Calendar FAQ* (http://www.tondering.dk/claus/calendar.html) -- Common questions about calendars.
 
+Louis Kessler, "Out on a Bad Date", *Louis Kessler's Behold Blog*, 2011-12-14 (http://www.beholdgenealogy.com/blog/?p=896) -- How programs screw up dates.
+
+Louis Kessler, "Sort of a Date", *Louis Kessler's Behold Blog*, 2011-12-04 (http://www.beholdgenealogy.com/blog/?p=891) -- A discussion about dates in GEDCOM.
+
 ##Entity Relationships##
 
 Tony Proctor, "The Lineage Trap", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/09/the-lineage-trap.html) -- How the identification of generic "subject entities" helps with an approach accommodating micro-history.
@@ -35,9 +59,13 @@ Tony Proctor, "Eventful Genealogy", *Parallax View* (http://parallax-viewpoint.b
 
 Tony Proctor, "Eventful Genealogy - Part II", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/11/eventful-genealogy-part-ii.html) -- Follow-up presenting 'relational constraints' as a way to force Event ordering when dates are too fuzzy.
 
+Louis Kessler, "Multiple Events and Unions in GEDCOM", *Louis Kessler's Behold Blog*, 2013-03-24 (http://www.beholdgenealogy.com/blog/?p=1303) -- Problems handling multiple events.
+
 ##Extensibility##
 
 Tony Proctor, "Digital Freedom", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/12/digital-freedom.html) -- Use of namespaces as a cornerstone in STEMMA's extensible vocabularies.
+
+Louis Kessler, "A Plethora of Extra GEDCOM Tags", *Louis Kessler's Behold Blog*, 2011-11-21 (http://www.beholdgenealogy.com/blog/?p=876) -- How allowing customization goes against data transferability.
 
 ##Family Units##
 
@@ -54,6 +82,8 @@ Tamura Jones, "Family in Scientific Genealogy", *Modern Software Experience* (ht
 Tony Proctor, "Revisiting the Family Group", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/02/revisiting-family-group.html) -- Follow-up to 'Family Units' that elevated the Group concept to a top-level entity for micro-history usage.
 
 Tony Proctor, "Happy Families", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/07/happy-families.html) -- Important separation of the concepts of biological lineage, family units, and bonding ceremonies (such as marriage).
+
+Louis Kessler, "Eliminating the Family", *Louis Kessler's Behold Blog*, 2012-06-16 (http://www.beholdgenealogy.com/blog/?p=1097) -- Discussion of how to handle families.
 
 ##Groups##
 
@@ -83,6 +113,8 @@ Tony Proctor, "Semantic Tagging of Historical Data", *Parallax View* (http://par
 
 Tony Proctor, "Structured Narrative", *STEMMA Project* (www.parallaxview.co/familyhistorydata/downloads/StructuredNarrative.pdf) -- worked example of semantic mark-up in STEMMA.
 
+Louis Kessler, "Markup in GEDCOM", *Louis Kessler's Behold Blog*, 2011-03-05 (http://www.beholdgenealogy.com/blog/?p=808) -- Why markup is bad and should be limited.
+
 ##Places##
 
 Tony Proctor, "A Place for Everything", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/08/a-place-for-everything.html) -- Differentiates the name of a place (or of a place hierarchy) from a full Place entity (or a chain of Place entities)
@@ -90,6 +122,8 @@ Tony Proctor, "A Place for Everything", *Parallax View* (http://parallax-viewpoi
 Tony Proctor, "Related Entities", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/03/related-entities.html) -- Non-hierarchical connections between Places.
 
 Tony Proctor, "Place Names or Coordinates?", *Parallax View* (http://parallax-viewpoint.blogspot.com/2013/12/place-names-or-coordinates.html) -- Treatment of coordinates, either in local data or external 'Place Authority'.
+
+Louis Kessler, "The Place Record in GEDCOM", *Louis Kessler's Behold Blog*, 2011-12-24 (http://www.beholdgenealogy.com/blog/?p=899) -- The case for places to be a top-level record.
 
 "Towards an international address standard", ISO TC211 (http://www.isotc211.org/address/Copenhagen_Address_Workshop/papers/CoetzeeEtAl_TowardsAnInternationalAddressStandard_GSDI-10_2008.pdf) -- Examination of issues for worldwide addresses.
 
@@ -147,6 +181,14 @@ Tony Proctor, "Citations for Online Trees", *Parallax View* (http://parallax-vie
 
 Tamura Jones, "Genealogy Citation Standard", *Modern Software Experience* (http://www.tamurajones.net/GenealogyCitationStandard.xhtml) -- GEDCOM sources model.
 
+Louis Kessler, "Standardizing Sources and Citation Templates", *Louis Kessler's Behold Blog*, 2014-08-27 (http://www.beholdgenealogy.com/blog/?p=1395) -- This was the paper submitted to FHISO as CFPS 114 but also contains user comments and discussion.
+
+Louis Kessler, "How many sources/citations is too many?", *Louis Kessler's Behold Blog*, 2013-12-28 (http://www.beholdgenealogy.com/blog/?p=1357) -- Discusses if sources should be included once per person, or with each event.
+
+Louis Kessler, "Source Driven Genealogy", *Louis Kessler's Behold Blog*, 2013-02-24 (http://www.beholdgenealogy.com/blog/?p=1288) -- Requirements in the organization of source data.
+
+Louis Kessler, "Evidence and Conclusion Modelling in Behold", *Louis Kessler's Behold Blog*, 2011-11-12 (http://www.beholdgenealogy.com/blog/?p=858) -- Emphasizes the simple idea of connecting the conclusions directly to the sources.
+
 ##Standards (Discussion)##
 
 Tony Proctor, "Bootstrapping a Data Standard", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/06/bootstrapping-data-standard_11.html) -- Opinions on how to proceed when legacy data and the future pull in opposite directions.
@@ -194,6 +236,10 @@ ISO 16684-1:2012 (aka Extensible Metadata Platform, XMP), *Adobe* (http://www.ad
 "ANSI/NISO Z39.19-2005 (R2010)", *NISO* (http://www.niso.org/apps/group_public/project/details.php?project_id=46) -- Guidelines for the Construction, Format, and Management of Monolingual Controlled Vocabularies.
 
 "Key words for use in RFCs to Indicate Requirement Levels", *IETF* (http://www.ietf.org/rfc/rfc2119.txt) -- Recommended semantics for words such as "MUST", "MUST NOT", "REQUIRED", "SHALL" in IETF 'Request For Comments' docvuments.
+
+Louis Kessler, "Whither GEDCOM X?", *Louis Kessler's Behold Blog*, 2012-06-07 (http://www.beholdgenealogy.com/blog/?p=1096) -- What was right and wrong with GEDCOM X.
+
+Louis Kessler, "My Feedback to GEDCOM X", *Louis Kessler's Behold Blog*, 2012-03-29 (http://www.beholdgenealogy.com/blog/?p=1080) -- Deficiencies, file format, and feedback about GEDCOM.
 
 ##Technologies##
 
