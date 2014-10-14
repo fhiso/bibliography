@@ -260,6 +260,8 @@ Tom Heath & Christian Bizer, "Linked Data: Evolving the Web into a Global Data S
 "RDF 1.1 Primer", *World Wide Web Consortium* (http://www.w3.org/TR/rdf11-primer/) -- A technical introduction to RDF 
 emphasising the newer non-XML serialisations.
 
+"Unicode Technical Standard #35: Unicode Locale Data Markup Language (LDML)", *Unicode Technical Reports* (http://unicode.org/reports/tr35/) --  XML format (vocabulary) for the exchange of structured locale data. This format is used in the Unicode Common Locale Data Repository (CLDR). 
+
 ##Transcription##
 
 Bell, Mary McCampbell. "Transcripts and Abstracts". Chapter 16 in E. S. Mills et al., eds. *Professional Genealogy: A Manual for Researchers, Writers, Editors, Lecturers, and Librarians*. Baltimore: Genealogical Publishing Co., 2001. Pages 291–326 -- Covers the standards and the processes for creating various kinds of derivatives, with step-by-step examples.
