@@ -241,6 +241,8 @@ Louis Kessler, "Whither GEDCOM X?", *Louis Kessler's Behold Blog*, 2012-06-07 (h
 
 Louis Kessler, "My Feedback to GEDCOM X", *Louis Kessler's Behold Blog*, 2012-03-29 (http://www.beholdgenealogy.com/blog/?p=1080) -- Deficiencies, file format, and feedback about GEDCOM.
 
+"Unicode Technical Standard #35: Unicode Locale Data Markup Language (LDML)", *Unicode Technical Reports* (http://unicode.org/reports/tr35/) --  XML format (vocabulary) for the exchange of structured locale data. This format is used in the Unicode Common Locale Data Repository (CLDR). 
+
 ##Technologies##
 
 "Dat", *Max Ogden* (http://dat-data.com/) -- Dat is an open source project that is intended to provide a streaming interface between every file format anddata storage backend.
@@ -259,8 +261,6 @@ Tom Heath & Christian Bizer, "Linked Data: Evolving the Web into a Global Data S
 
 "RDF 1.1 Primer", *World Wide Web Consortium* (http://www.w3.org/TR/rdf11-primer/) -- A technical introduction to RDF 
 emphasising the newer non-XML serialisations.
-
-"Unicode Technical Standard #35: Unicode Locale Data Markup Language (LDML)", *Unicode Technical Reports* (http://unicode.org/reports/tr35/) --  XML format (vocabulary) for the exchange of structured locale data. This format is used in the Unicode Common Locale Data Repository (CLDR). 
 
 ##Transcription##
 
