@@ -35,7 +35,7 @@ Tony Proctor, "Do Genealogists Really Need a Database?", *Parallax View* (http:/
 
 "Calendar (New Style) Act 1750", *The National Archives of UK* (http://www.legislation.gov.uk/apgb/Geo2/24/23) -- Original Briish legislation for the introduction of the new calendar.
 
-"Dual Dates" (aka "Double Dates", *Wikipedia* (https://en.wikipedia.org/wiki/Dual_dating) -- Summary of the worldwide changeover.
+"Dual Dates" (aka "Double Dates"), *Wikipedia* (https://en.wikipedia.org/wiki/Dual_dating) -- Summary of the worldwide changeover.
 
 "Extended Date/Time Format (EDTF)", *Library of Congress* (http://www.loc.gov/standards/datetime/) - The extended and subsetted version of ISO 8601.
 
