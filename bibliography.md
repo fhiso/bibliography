@@ -105,7 +105,7 @@ Roger Darlington, "WHAT'S IN A NAME?" (http://www.rogerdarlington.co.uk/useofnam
 
 Tony Proctor, "The Game of the Name", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/08/the-game-of-name.html) -- Scheme for generalised name handling for Person/Place/Group in globalised fashion
 
-Tony Proctor, "One Name to Rule Them All", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/02/one-name-to-rule-them-all.html) -- Relationship of actual identifications from preferred identifications, from evidential forms, and from report/chart titles.
+Tony Proctor, "One Name to Rule Them All", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/02/one-name-to-rule-them-all.html) -- Differentiation of actual identifications from preferred identifications, from evidential forms, and from report/chart titles.
 
 ##Narrative/Reports/Mark-up##
 
