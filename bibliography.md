@@ -43,6 +43,8 @@ W3CDTF, *W3C* (http://www.w3.org/TR/NOTE-datetime) -- The cut-down version of IS
 
 "List of Calendars", *Wikipedia* (http://en.wikipedia.org/wiki/List_of_calendars) -- List of worldwide calendar systems.
 
+David Ewing Duncan. *The Calendar: The 5000 Year Struggle To Align The Clock and the Heavens, and What Happened To The Missing Ten Days*.  Fourth Estate; New Ed edition. 8 April 2011 -- Discussion of world calendars and the problems finding some synchronisation between them.
+
 *The Calendar FAQ* (http://www.tondering.dk/claus/calendar.html) -- Common questions about calendars.
 
 Louis Kessler, "Out on a Bad Date", *Louis Kessler's Behold Blog*, 2011-12-14 (http://www.beholdgenealogy.com/blog/?p=896) -- How programs screw up dates.
