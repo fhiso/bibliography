@@ -1,7 +1,9 @@
 FHISO Bibliography
 ==================
 
-##Artefacts##
+##Artefacts/Archives##
+
+Maygene F. Daniels, "Introduction to Archival Terminology", *Archives Library Information Center (ALIC)* (http://www.archives.gov/research/alic/reference/archives-resources/terminology.html) -- Small glossary of archival terms.
 
 Tony Proctor, "Ashes to Ashes, Artefacts to Bits", *Parallax View* (http://parallax-viewpoint.blogspot.com/2014/05/ashes-to-ashes-artefacts-to-bits.html) -- Relationship of physical artefacts to digital images.
 
