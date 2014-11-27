@@ -5,6 +5,8 @@ FHISO Bibliography
 
 Maygene F. Daniels, "Introduction to Archival Terminology", *Archives Library Information Center (ALIC)* (<http://www.archives.gov/research/alic/reference/archives-resources/terminology.html>) -- Small glossary of archival terms.
 
+*Describing Archives: A Content standard*, 2nd ed. Chicago: Society of American Archivists (SAA), 2013 (<http://files.archivists.org/pubs/DACS2E-2013.pdf>) -- Officially adopted as a standard by the Council of the Society of American Archivists in January 2013.
+
 Tony Proctor, "Ashes to Ashes, Artefacts to Bits", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/05/ashes-to-ashes-artefacts-to-bits.html>) -- Relationship of physical artefacts to digital images.
 
 ##Core Concepts##
