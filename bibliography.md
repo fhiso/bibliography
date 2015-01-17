@@ -271,6 +271,6 @@ Tom Heath & Christian Bizer, "Linked Data: Evolving the Web into a Global Data S
 
 Bell, Mary McCampbell. "Transcripts and Abstracts". Chapter 16 in E. S. Mills et al., eds. *Professional Genealogy: A Manual for Researchers, Writers, Editors, Lecturers, and Librarians*. Baltimore: Genealogical Publishing Co., 2001. Pages 291–326 -- Covers the standards and the processes for creating various kinds of derivatives, with step-by-step examples.
 
-"Editorial Method for Journals, Volume 1", *The Joseph smith Papers* (<http://josephsmithpapers.org/back/editorial-method-for-journals-volume-1>) -- Useful list of terms, concepts, and conventions for transcription.
+"Editorial Method for Journals, Volume 1", *The Joseph Smith Papers* (<http://josephsmithpapers.org/back/editorial-method-for-journals-volume-1>) -- Useful list of terms, concepts, and conventions for transcription.
 
-Tony Proctor, "Handling Transcriptions", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/04/handling-transcriptions.html>) -- Scheme for incorporating transcriptions (or translations, extracts, abstracts) into our data, and relationship to citations and attachment (e.g. images, scans).
+Tony Proctor, "Handling Transcriptions", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/04/handling-transcriptions.html>) -- Scheme for incorporating transcriptions (or translations, extracts, abstracts) into our data, and relationship to citations and media attachment (e.g. images, scans).
