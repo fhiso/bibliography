@@ -179,7 +179,7 @@ Tony Proctor, "No Sex Please, We're Genealogists!", *Parallax View* (<http://par
 
 Mills, Elizabeth Shown. *Evidence Explained: Citing History Sources from Artifacts to Cyberspace*  2nd ed.  Baltimore: Genealogical Publishing Co., 2009 -- Fundamentals of analysing evidence and citing sources, including samples for many source types.
 
-Jones, Thomas W. *Mastering Genealogical Proof* NGS, 2013 -- Using evidence to reconstruct relationships and lives. Detailed breakdown of citations, including multi-layered ones.
+Jones, Thomas W. *Mastering Genealogical Proof*. NGS, 2013 -- Using evidence to reconstruct relationships and lives. Detailed breakdown of citations, including multi-layered ones.
 
 Tony Proctor, "Cite Seeing", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/09/cite-seeing.html>) -- Scheme accommodating layered citations, discursive notes, annotation, analytic citation notes, and multiple sources per citation.
 
