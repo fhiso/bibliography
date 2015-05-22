@@ -249,7 +249,11 @@ Louis Kessler, "Whither GEDCOM X?", *Louis Kessler's Behold Blog*, 2012-06-07 (<
 
 Louis Kessler, "My Feedback to GEDCOM X", *Louis Kessler's Behold Blog*, 2012-03-29 (<http://www.beholdgenealogy.com/blog/?p=1080>) -- Deficiencies, file format, and feedback about GEDCOM.
 
-"Unicode Technical Standard #35: Unicode Locale Data Markup Language (LDML)", *Unicode Technical Reports* (<http://unicode.org/reports/tr35/>) --  XML format (vocabulary) for the exchange of structured locale data. This format is used in the Unicode Common Locale Data Repository (CLDR). 
+"Unicode Technical Standard #35: Unicode Locale Data Markup Language (LDML)", *Unicode Technical Reports* (<http://unicode.org/reports/tr35/>) --  XML format (vocabulary) for the exchange of structured locale data. This format is used in the Unicode Common Locale Data Repository (CLDR).
+
+"Metadata Standards", *Wikipedia* (<http://en.wikipedia.org/wiki/Metadata_standards>) -- List of current metadata standards.
+
+"Putting Things in Order: a Directory of Metadata Schemas and Related Standards", *JISC Digital Media" (<http://www.jiscdigitalmedia.ac.uk/guide/putting-things-in-order-links-to-metadata-schemas-and-related-standards>) -- List of formal metadata schemas and related standards giving brief descriptions and links to further information.
 
 ##Technologies##
 
