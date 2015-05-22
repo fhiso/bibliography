@@ -253,7 +253,7 @@ Louis Kessler, "My Feedback to GEDCOM X", *Louis Kessler's Behold Blog*, 2012-03
 
 "Metadata Standards", *Wikipedia* (<http://en.wikipedia.org/wiki/Metadata_standards>) -- List of current metadata standards.
 
-"Putting Things in Order: a Directory of Metadata Schemas and Related Standards", *JISC Digital Media" (<http://www.jiscdigitalmedia.ac.uk/guide/putting-things-in-order-links-to-metadata-schemas-and-related-standards>) -- List of formal metadata schemas and related standards giving brief descriptions and links to further information.
+"Putting Things in Order: a Directory of Metadata Schemas and Related Standards", *JISC Digital Media* (<http://www.jiscdigitalmedia.ac.uk/guide/putting-things-in-order-links-to-metadata-schemas-and-related-standards>) -- List of formal metadata schemas and related standards giving brief descriptions and links to further information.
 
 ##Technologies##
 
