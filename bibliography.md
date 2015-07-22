@@ -127,6 +127,8 @@ Tony Proctor, "Structured Narrative", *STEMMA Project* (<http://www.parallaxview
 
 Louis Kessler, "Markup in GEDCOM", *Louis Kessler's Behold Blog*, 2011-03-05 (<http://www.beholdgenealogy.com/blog/?p=808>) -- Why presentational markup is bad and should be limited.
 
+Patrick McKenzie, "Falsehoods Programmers Believe About Names", *Kalzumeus*, 2010-06-17 (<http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/>) -- List of common misconceptions about names.
+
 ##Places##
 
 Tony Proctor, "A Place for Everything", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/08/a-place-for-everything.html>) -- Differentiates the name of a place (or of a place hierarchy) from a full Place entity (or a chain of Place entities)
@@ -140,6 +142,8 @@ Louis Kessler, "The Place Record in GEDCOM", *Louis Kessler's Behold Blog*, 2011
 "Towards an international address standard", ISO TC211 (<http://www.isotc211.org/address/Copenhagen_Address_Workshop/papers/CoetzeeEtAl_TowardsAnInternationalAddressStandard_GSDI-10_2008.pdf>) -- Examination of issues for worldwide addresses.
 
 "Guide to International Mailing Address Formats", *BitBoost Systems* (<http://bitboost.com/ref/international-address-formats.html>) -- List of addressing styles.
+
+Michael Tandy, "Falsehoods programmers believe about addresses", *mjt.me.uk*, 2013-05-29 (<https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/>) -- List of misconceptions about addresses.
 
 ##Properties/Attributes##
 
