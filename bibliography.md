@@ -119,6 +119,8 @@ Tony Proctor, "The Game of the Name", *Parallax View* (<http://parallax-viewpoin
 
 Tony Proctor, "One Name to Rule Them All", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/02/one-name-to-rule-them-all.html>) -- Differentiation of actual identifications from preferred identifications, from evidential forms, and from report/chart titles.
 
+Patrick McKenzie, "Falsehoods Programmers Believe About Names", *Kalzumeus*, 2010-06-17 (<http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/>) -- List of common misconceptions about names.
+
 ##Narrative/Reports/Mark-up##
 
 Tony Proctor, "Semantic Tagging of Historical Data", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/09/semantic-tagging-of-historical-data.html>) -- Use of semantic mark-up to link narrative reports to referenced entities.
@@ -126,8 +128,6 @@ Tony Proctor, "Semantic Tagging of Historical Data", *Parallax View* (<http://pa
 Tony Proctor, "Structured Narrative", *STEMMA Project* (<http://www.parallaxview.co/familyhistorydata/downloads/StructuredNarrative.pdf>) -- worked example of semantic mark-up in STEMMA.
 
 Louis Kessler, "Markup in GEDCOM", *Louis Kessler's Behold Blog*, 2011-03-05 (<http://www.beholdgenealogy.com/blog/?p=808>) -- Why presentational markup is bad and should be limited.
-
-Patrick McKenzie, "Falsehoods Programmers Believe About Names", *Kalzumeus*, 2010-06-17 (<http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/>) -- List of common misconceptions about names.
 
 ##Places##
 
