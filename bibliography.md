@@ -55,6 +55,12 @@ Louis Kessler, "Out on a Bad Date", *Louis Kessler's Behold Blog*, 2011-12-14 (<
 
 Louis Kessler, "Sort of a Date", *Louis Kessler's Behold Blog*, 2011-12-04 (<http://www.beholdgenealogy.com/blog/?p=891>) -- A discussion about dates in GEDCOM.
 
+Tony Proctor, "Warm Fuzzy dates", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2015/01/warm-fuzzy-dates.html>) -- Discussion of fuzzy (uncertain, imprecise, etc) dates.
+
+Tony Proctor, "Is the ISO Date Standard Bad?", *Parallax View*, 2014-06-06 (<http://parallax-viewpoint.blogspot.com/2014/06/is-iso-date-standard-bad.html>) -- Critique of the ISO 8601 date standard.
+
+Tony Proctor, "A Calendar for Your Date — Part I", *Parallax View*, 2015-07-12 (<http://parallax-viewpoint.blogspot.com/2015/07/a-calendar-for-your-date-part-i.html>). Also: "A Calendar for Your Date — Part II", *Parallax View*, 2015-07-19 (<http://parallax-viewpoint.blogspot.com/2015/07/a-calendar-for-your-date-part-ii.html>) -- Tour through the various calendars, and the problems of accurate date determination, culminating in suggestions for a computer representation.
+
 ##Entity Relationships##
 
 Tony Proctor, "The Lineage Trap", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/09/the-lineage-trap.html>) -- How the identification of generic "subject entities" helps with an approach accommodating micro-history.
