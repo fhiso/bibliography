@@ -2,7 +2,7 @@ FHISO Bibliography
 ==================
 
 ##Artefacts/Archives##
-
+s
 Maygene F. Daniels, "Introduction to Archival Terminology", *Archives Library Information Center (ALIC)* (<http://www.archives.gov/research/alic/reference/archives-resources/terminology.html>) -- Small glossary of archival terms.
 
 *Describing Archives: A Content standard*, 2nd ed. Chicago: Society of American Archivists (SAA), 2013 (<http://files.archivists.org/pubs/DACS2E-2013.pdf>) -- Officially adopted as a standard by the Council of the Society of American Archivists in January 2013.
@@ -61,11 +61,11 @@ Tony Proctor, "Is the ISO Date Standard Bad?", *Parallax View*, 2014-06-06 (<htt
 
 Tony Proctor, "A Calendar for Your Date — Part I", *Parallax View*, 2015-07-12 (<http://parallax-viewpoint.blogspot.com/2015/07/a-calendar-for-your-date-part-i.html>). Also: "A Calendar for Your Date — Part II", *Parallax View*, 2015-07-19 (<http://parallax-viewpoint.blogspot.com/2015/07/a-calendar-for-your-date-part-ii.html>) -- Tour through the various calendars, and the problems of accurate date determination, culminating in suggestions for a computer representation.
 
+Tony Proctor, "Synchronised Date", *Parallax View*, 2015-08-04 (<http://parallax-viewpoint.blogspot.com/2015/08/synchronised-dates.html>) -- Discussion of the Julian-to-Gregorian conversion, and the generalised handling of dual dates.
+
 ##Entity Relationships##
 
 Tony Proctor, "The Lineage Trap", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/09/the-lineage-trap.html>) -- How the identification of generic "subject entities" helps with an approach accommodating micro-history.
-
-Tony Proctor, "Synchronised Date", *Parallax View*, 2015-08-04 (<http://parallax-viewpoint.blogspot.com/2015/08/synchronised-dates.html>) -- Discussion of the Julian-to-Gregorian conversion, and the generalised handling of dual dates.
 
 ##Events##
 
