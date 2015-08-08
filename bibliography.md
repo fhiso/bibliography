@@ -61,7 +61,7 @@ Tony Proctor, "Is the ISO Date Standard Bad?", *Parallax View*, 2014-06-06 (<htt
 
 Tony Proctor, "A Calendar for Your Date — Part I", *Parallax View*, 2015-07-12 (<http://parallax-viewpoint.blogspot.com/2015/07/a-calendar-for-your-date-part-i.html>). Also: "A Calendar for Your Date — Part II", *Parallax View*, 2015-07-19 (<http://parallax-viewpoint.blogspot.com/2015/07/a-calendar-for-your-date-part-ii.html>) -- Tour through the various calendars, and the problems of accurate date determination, culminating in suggestions for a computer representation.
 
-Tony Proctor, "Synchronised Date", *Parallax View*, 2015-08-04 (<http://parallax-viewpoint.blogspot.com/2015/08/synchronised-dates.html>) -- Discussion of the Julian-to-Gregorian conversion, and the generalised handling of dual dates.
+Tony Proctor, "Synchronised Dates", *Parallax View*, 2015-08-04 (<http://parallax-viewpoint.blogspot.com/2015/08/synchronised-dates.html>) -- Discussion of the Julian-to-Gregorian conversion, and the generalised handling of dual dates.
 
 ##Entity Relationships##
 
