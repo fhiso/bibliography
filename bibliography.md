@@ -65,6 +65,8 @@ Tony Proctor, "A Calendar for Your Date — Part I", *Parallax View*, 2015-07-12
 
 Tony Proctor, "The Lineage Trap", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/09/the-lineage-trap.html>) -- How the identification of generic "subject entities" helps with an approach accommodating micro-history.
 
+Tony Proctor, "Synchronised Date", *Parallax View*, 2015-08-04 (<http://parallax-viewpoint.blogspot.com/2015/08/synchronised-dates.html>) -- Discussion of the Julian-to-Gregorian conversion, and the generalised handling of dual dates.
+
 ##Events##
 
 Tony Proctor, "Eventful Genealogy", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/11/eventful-genealogy.html>) -- How Events can become a major component in coordinating our data, using protracted and hierarchical event descriptions.
