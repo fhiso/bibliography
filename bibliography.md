@@ -291,4 +291,8 @@ Bell, Mary McCampbell. "Transcripts and Abstracts". Chapter 16 in E. S. Mills et
 
 "Editorial Method for Journals, Volume 1", *The Joseph Smith Papers* (<http://josephsmithpapers.org/back/editorial-method-for-journals-volume-1>) -- Useful list of terms, concepts, and conventions for transcription.
 
+Mary-Jo Kline and Susan Holbrook Perdue, *A Guide to Documentary Editing*, 3d edition (<http://gde.upress.virginia.edu/00C-gde.html>) -- A complete guide, but especially ch.5 "The Conventions of Textual Treatment" (<http://gde.upress.virginia.edu/05-gde.html>).
+ 
+Stefanie Dipper and Martin Schnurrenberger, *OTTO: A Tool for Diplomatic Transcription of Historical Texts* (<http://www.linguistics.ruhr-uni-bochum.de/~dipper/papers/ltc09_procVersion.pdf>) -- Transcription tool designed for diplomatic transcription of historical language data. Mainly aimed at linguists but covers a lot of detail.
+
 Tony Proctor, "Handling Transcriptions", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/04/handling-transcriptions.html>) -- Scheme for incorporating transcriptions (or translations, extracts, abstracts) into our data, and relationship to citations and media attachment (e.g. images, scans).
