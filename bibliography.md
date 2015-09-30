@@ -2,7 +2,7 @@ FHISO Bibliography
 ==================
 
 ##Artefacts/Archives##
-s
+
 Maygene F. Daniels, "Introduction to Archival Terminology", *Archives Library Information Center (ALIC)* (<http://www.archives.gov/research/alic/reference/archives-resources/terminology.html>) -- Small glossary of archival terms.
 
 *Describing Archives: A Content standard*, 2nd ed. Chicago: Society of American Archivists (SAA), 2013 (<http://files.archivists.org/pubs/DACS2E-2013.pdf>) -- Officially adopted as a standard by the Council of the Society of American Archivists in January 2013.
