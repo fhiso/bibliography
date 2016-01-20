@@ -279,9 +279,9 @@ Louis Kessler, "My Feedback to GEDCOM X", *Louis Kessler's Behold Blog*, 2012-03
 
 Dan Brickley & Libby Miller, "FOAF Vocabulary Specification 0.99" (<http://xmlns.com/foaf/spec/>) -- Vocabulary for describing people, originally designed for social networking sites, but now the de facto standard for describing people on the semantic web.
 
-Ian Davis & David Galbraith, "BIO: A vocabulary for biographical information" (<http://vocab.org/bio/0.1/.html>) -- Vocabulary for biographical events built on top of FOAF.
+Ian Davis & David Galbraith, "BIO: A vocabulary for biographical information" (<http://vocab.org/bio/0.1/>) -- Vocabulary for biographical events built on top of FOAF.
 
-Ian Davis & Eric Vitiello Jn, "RELATIONSHIP: A vocabulary for describing relationships between people" (<http://vocab.org/relationship/.html>) -- Vocabulary for relationships (including genealogical ones) built on top of FOAF.
+Ian Davis & Eric Vitiello Jn, "RELATIONSHIP: A vocabulary for describing relationships between people" (<http://vocab.org/relationship/>) -- Vocabulary for relationships (including genealogical ones) built on top of FOAF.
 
 Tom Heath & Christian Bizer, "Linked Data: Evolving the Web into a Global Data Space" (Morgan & Claypool, 2011), also online <http://linkeddatabook.com/editions/1.0/> -- a popular guide to the various linked data technologies and vocabularies.
 
