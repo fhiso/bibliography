@@ -209,6 +209,8 @@ Louis Kessler, "Source Driven Genealogy", *Louis Kessler's Behold Blog*, 2013-02
 
 Louis Kessler, "Evidence and Conclusion Modelling in Behold", *Louis Kessler's Behold Blog*, 2011-11-12 (<http://www.beholdgenealogy.com/blog/?p=858>) -- Emphasizes the simple idea of connecting the conclusions directly to the sources.
 
+Tony Proctor, "Anatomy of a Source", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2016/01/anatomy-of-source_57.html>) -- Examination of the fundamental requirements of a data model for sources and citations, together with a look at how STEMMA and GEDCOM-X relate to them.
+
 ##Standards (Discussion)##
 
 Tony Proctor, "Bootstrapping a Data Standard", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/06/bootstrapping-data-standard_11.html>) -- Opinions on how to proceed when legacy data and the future pull in opposite directions.
