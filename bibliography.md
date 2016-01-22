@@ -29,6 +29,8 @@ Louis Kessler, "Build a BetterGEDCOM or learn GEDCOMBetter?", *Louis Kessler's B
 
 Louis Kessler, "BetterGEDCOM", *Louis Kessler's Behold Blog*. 2010-12-07 (<http://www.beholdgenealogy.com/blog/?p=795>) -- Ideas about building a new standard.
 
+Tony Proctor, "Our Days of Future Passed — Part I, II, and III", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2015/11/our-days-of-future-passed-part-i.html>, <http://parallax-viewpoint.blogspot.com/2015/12/our-days-of-future-passed-part-ii.html>, <http://parallax-viewpoint.blogspot.com/2015/12/our-days-of-future-passed-part-iii.html>) -- Presentation of the philosophy behind the STEMMA data model, and how it embraces the main approaches to genealogy as well as micro-history.
+
 ##Databases/Indexing/Searching##
 
 Tony Proctor, "Do Genealogists Really Need a Database?", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/10/do-genealogists-really-need-database.html>) -- The argument for in-memory indexing, loaded directly from source files, and the advantages for sharing and storage.
@@ -183,6 +185,8 @@ Tony Proctor, "Evidence and Where to Stick It", *Parallax View* (<http://paralla
 
 Tony Proctor, "Proof of the Pudding", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/12/proof-of-pudding.html>) -- Examination of what constitutes 'proof', and the different usage of various terms.
 
+Tony Proctor, "Source Mining", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2015/02/source-mining.html>) -- General discussion of assimilating source information as a bottom-up approach to using that information in both chronological narrative, conclusions, and proof arguments.
+
 ##Sex/Gender##
 
 Tony Proctor, "No Sex Please, We're Genealogists!", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/05/no-sex-please-were-genealogists.html>) -- General discussion of sex, gender, and lifestyle choices.
@@ -209,7 +213,9 @@ Louis Kessler, "Source Driven Genealogy", *Louis Kessler's Behold Blog*, 2013-02
 
 Louis Kessler, "Evidence and Conclusion Modelling in Behold", *Louis Kessler's Behold Blog*, 2011-11-12 (<http://www.beholdgenealogy.com/blog/?p=858>) -- Emphasizes the simple idea of connecting the conclusions directly to the sources.
 
-Tony Proctor, "Anatomy of a Source", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2016/01/anatomy-of-source_57.html>) -- Examination of the fundamental requirements of a data model for sources and citations, together with a look at how STEMMA and GEDCOM-X relate to them.
+Tony Proctor, "Hierarchical Sources", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/05/no-sex-please-were-genealogists.html>) -- General discussion of an archival approach to sources, and how that can be used for our own micro-archive collections.
+
+Tony Proctor, "Anatomy of a Source", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2015/01/hierarchical-sources.html>) -- Examination of the fundamental requirements of a data model for sources and citations, together with a look at how STEMMA and GEDCOM-X relate to them.
 
 ##Standards (Discussion)##
 
