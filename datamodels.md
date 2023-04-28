@@ -1,8 +1,8 @@
-#Data Models#
+# Data Models #
 
 List of resources for published genealogical data models. Each entry, below, can be linked directly by using a URL with a trailing 'fragment identifier' (e.g. <https://github.com/fhiso/bibliography/blob/master/datamodels.md#gedcom>). The identifier names are, by default, the lower-cased headings with spaces replaced with hyphens (e.g. #event-gedcom).
 
-##DeadEnds##
+## DeadEnds ##
 
 "DeadEnds Data Model", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/DeadEnds+Model>)
 
@@ -10,15 +10,15 @@ List of resources for published genealogical data models. Each entry, below, can
 
 "The DeadEnds Data Model", *bartonstreet.com* (<http://bartonstreet.com/deadends/DeadEndsModel.3.pdf>) -- Recent (Sep 2014) update by the author (Tom Wetmore) given that the other online documentation is now quite old.
 
-##Event Gedcom##
+## Event Gedcom ##
 
 "Event GEDCOM", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/Event+Gedcom>)
 
-##FSDN Model##
+## FSDN Model ##
 
 "FSDN Model", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/FSDN+Model>)
 
-##GEDCOM##
+## GEDCOM ##
 
 "GEDCOM", *FamilySearch Developers* (<https://familysearch.org/developers/docs/gedcom/>) -- V5.5 and V5.5.1 specifications
 
@@ -26,25 +26,25 @@ List of resources for published genealogical data models. Each entry, below, can
 
 "FamilySearch GEDCOM Specifications", *Modern Software Experience* (<http://www.tamurajones.net/FamilySearchGEDCOMSpecifications.xhtml>) -- Older specification documents.
 
-##GEDCOM-X##
+## GEDCOM-X ##
 
 "GEDCOM X", *gedcomx.org* (<http://www.gedcomx.org/Specifications.html>) -- Specification.
 
-##GedML Format##
+## GedML Format ##
 
 "GedML Data Format", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/GedML+Data%C2%A0Format>)
 
-##GenTech##
+## GenTech ##
 
 "Genealogical Data Model", *NGS* (<http://www.ngsgenealogy.org/cs/GenTech_Projects>) -- Specification.
 
 "GenTech Data Model", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/GenTech+Data+Model>)
 
-##GenXML##
+## GenXML ##
 
 "GenXML", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/GenXML>)
 
-##GRAMPS##
+## GRAMPS ##
 
 "Gramps 4.1 Wiki Manual", *Gramps project* (<https://gramps-project.org/wiki/index.php?title=Gramps_4.1_Wiki_Manual>) -- User Manual.
 
@@ -64,14 +64,14 @@ NB: Majority of online material is for 4.0 rather than the latest 4.1.
 
 "Gramps Data Model", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/GRAMPS+Data+Model>)
 
-##OpenGen##
+## OpenGen ##
 
 "OpenGen Data Model", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/OpenGen+Data+Model>)
 
-##SFT.xml##
+## SFT.xml ##
 
 "Mike's Model", *BetterGEDCOM wiki* (<http://bettergedcom.wikispaces.com/Mike%27s+Model>)
 
-##STEMMA##
+## STEMMA ##
 
 "STEMMA Project", *Parallax View* (<http://www.parallaxview.co/familyhistorydata/>) -- Specification and several case studies.
