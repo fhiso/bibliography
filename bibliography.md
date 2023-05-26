@@ -1,7 +1,7 @@
 FHISO Bibliography
 ==================
 
-##Artefacts/Archives##
+## Artefacts/Archives ##
 
 Maygene F. Daniels, "Introduction to Archival Terminology", *Archives Library Information Center (ALIC)* (<http://www.archives.gov/research/alic/reference/archives-resources/terminology.html>) -- Small glossary of archival terms.
 
@@ -9,7 +9,7 @@ Maygene F. Daniels, "Introduction to Archival Terminology", *Archives Library In
 
 Tony Proctor, "Ashes to Ashes, Artefacts to Bits", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/05/ashes-to-ashes-artefacts-to-bits.html>) -- Relationship of physical artefacts to digital images.
 
-##Core Concepts##
+## Core Concepts ##
 
 Louis Kessler, "Genealogy Technology - Random Thoughts", *Louis Kessler's Behold Blog*, 2014-08-13 (<http://www.beholdgenealogy.com/blog/?p=1386>) -- Discussion of some incorrect thinking going on in the technical genealogy world.
 
@@ -31,11 +31,11 @@ Louis Kessler, "BetterGEDCOM", *Louis Kessler's Behold Blog*. 2010-12-07 (<http:
 
 Tony Proctor, "Our Days of Future Passed — Part I, II, and III", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2015/11/our-days-of-future-passed-part-i.html>, <http://parallax-viewpoint.blogspot.com/2015/12/our-days-of-future-passed-part-ii.html>, <http://parallax-viewpoint.blogspot.com/2015/12/our-days-of-future-passed-part-iii.html>) -- Presentation of the philosophy behind the STEMMA data model, and how it embraces the main approaches to genealogy as well as micro-history.
 
-##Databases/Indexing/Searching##
+## Databases/Indexing/Searching ##
 
 Tony Proctor, "Do Genealogists Really Need a Database?", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/10/do-genealogists-really-need-database.html>) -- The argument for in-memory indexing, loaded directly from source files, and the advantages for sharing and storage.
 
-##Dates/Calendars##
+## Dates/Calendars ##
 
 "Calendar (New Style) Act 1750", *Wikipedia* (<http://en.wikipedia.org/wiki/Calendar_(New_Style)_Act_1750>) -- Introduction of the Gregorian calendar in Britain
 
@@ -65,11 +65,11 @@ Tony Proctor, "A Calendar for Your Date — Part I", *Parallax View*, 2015-07-12
 
 Tony Proctor, "Synchronised Dates", *Parallax View*, 2015-08-04 (<http://parallax-viewpoint.blogspot.com/2015/08/synchronised-dates.html>) -- Discussion of the Julian-to-Gregorian conversion, and the generalised handling of dual dates.
 
-##Entity Relationships##
+## Entity Relationships ##
 
 Tony Proctor, "The Lineage Trap", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/09/the-lineage-trap.html>) -- How the identification of generic "subject entities" helps with an approach accommodating micro-history.
 
-##Events##
+## Events ##
 
 Tony Proctor, "Eventful Genealogy", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/11/eventful-genealogy.html>) -- How Events can become a major component in coordinating our data, using protracted and hierarchical event descriptions.
 
@@ -77,13 +77,13 @@ Tony Proctor, "Eventful Genealogy - Part II", *Parallax View* (<http://parallax-
 
 Louis Kessler, "Multiple Events and Unions in GEDCOM", *Louis Kessler's Behold Blog*, 2013-03-24 (<http://www.beholdgenealogy.com/blog/?p=1303>) -- Problems handling multiple events.
 
-##Extensibility##
+## Extensibility ##
 
 Tony Proctor, "Digital Freedom", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/12/digital-freedom.html>) -- Use of namespaces as a cornerstone in STEMMA's extensible vocabularies.
 
 Louis Kessler, "A Plethora of Extra GEDCOM Tags", *Louis Kessler's Behold Blog*, 2011-11-21 (<http://www.beholdgenealogy.com/blog/?p=876>) -- How allowing customization goes against data transferability.
 
-##Family Units##
+## Family Units ##
 
 "Marriage", *Wikipedia* (<http://en.wikipedia.org/wiki/Marriage>) -- Concept variations around the world.
 
@@ -101,11 +101,11 @@ Tony Proctor, "Happy Families", *Parallax View* (<http://parallax-viewpoint.blog
 
 Louis Kessler, "Eliminating the Family", *Louis Kessler's Behold Blog*, 2012-06-16 (<http://www.beholdgenealogy.com/blog/?p=1097>) -- Discussion of how to handle families.
 
-##Groups##
+## Groups ##
 
 Tony Proctor, "Rock Family Trees", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/05/rock-family-trees_30.html>) -- Demonstration of flexibility using Groups outside of genealogy.
 
-##Name Handling##
+## Name Handling ##
 
 "Names", *Citation Style Language (CSL) 1.0* (<http://citationstyles.org/downloads/specification.html#names>) -- Deals with sorting of names involving name particles.
 
@@ -125,7 +125,7 @@ Tony Proctor, "One Name to Rule Them All", *Parallax View* (<http://parallax-vie
 
 Patrick McKenzie, "Falsehoods Programmers Believe About Names", *Kalzumeus*, 2010-06-17 (<http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/>) -- List of common misconceptions about names.
 
-##Narrative/Reports/Mark-up##
+## Narrative/Reports/Mark-up ##
 
 Tony Proctor, "Semantic Tagging of Historical Data", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/09/semantic-tagging-of-historical-data.html>) -- Use of semantic mark-up to link narrative reports to referenced entities.
 
@@ -133,7 +133,7 @@ Tony Proctor, "Structured Narrative", *STEMMA Project* (<http://www.familyhistor
 
 Louis Kessler, "Markup in GEDCOM", *Louis Kessler's Behold Blog*, 2011-03-05 (<http://www.beholdgenealogy.com/blog/?p=808>) -- Why presentational markup is bad and should be limited.
 
-##Places##
+## Places ##
 
 Tony Proctor, "A Place for Everything", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/08/a-place-for-everything.html>) -- Differentiates the name of a place (or of a place hierarchy) from a full Place entity (or a chain of Place entities)
 
@@ -149,7 +149,7 @@ Louis Kessler, "The Place Record in GEDCOM", *Louis Kessler's Behold Blog*, 2011
 
 Michael Tandy, "Falsehoods programmers believe about addresses", *mjt.me.uk*, 2013-05-29 (<https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/>) -- List of misconceptions about addresses.
 
-##Properties/Attributes##
+## Properties/Attributes ##
 
 Tony Proctor, "Is That a Fact?", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/11/is-that-fact.html>) -- General discussion of STEMMA approach to named properties.
 
@@ -157,7 +157,7 @@ Tony Proctor, "The Role of the Role", *Parallax View* (<http://parallax-viewpoin
 
 Tony Proctor, "Time-dependent Attributes", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/08/time-dependent-attributes.html>) -- Scheme for handling time-dependent properties.
 
-##Research/Proof/Evidence##
+## Research/Proof/Evidence ##
 
 “QuickLesson 16: Speculation, Hypothesis, Interpretation & Proof“, *Evidence Explained: Historical Analysis, Citation & Source Usage* (<https://www.evidenceexplained.com/content/quicklesson-16-speculation-hypothesis-interpretation-proof>) -- Discussion of the genealogical usage of these terms
 
@@ -187,11 +187,11 @@ Tony Proctor, "Proof of the Pudding", *Parallax View* (<http://parallax-viewpoin
 
 Tony Proctor, "Source Mining", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2015/02/source-mining.html>) -- General discussion of assimilating source information as a bottom-up approach to using that information in both chronological narrative, conclusions, and proof arguments.
 
-##Sex/Gender##
+## Sex/Gender ##
 
 Tony Proctor, "No Sex Please, We're Genealogists!", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/05/no-sex-please-were-genealogists.html>) -- General discussion of sex, gender, and lifestyle choices.
 
-##Sources/Citations##
+## Sources/Citations ##
 
 Mills, Elizabeth Shown. *Evidence Explained: Citing History Sources from Artifacts to Cyberspace*  2nd ed.  Baltimore: Genealogical Publishing Co., 2009 -- Fundamentals of analysing evidence and citing sources, including samples for many source types.
 
@@ -217,7 +217,7 @@ Tony Proctor, "Hierarchical Sources", *Parallax View* (<http://parallax-viewpoin
 
 Tony Proctor, "Anatomy of a Source", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2015/01/hierarchical-sources.html>) -- Examination of the fundamental requirements of a data model for sources and citations, together with a look at how STEMMA and GEDCOM-X relate to them.
 
-##Standards (Discussion)##
+## Standards (Discussion) ##
 
 Tony Proctor, "Bootstrapping a Data Standard", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2014/06/bootstrapping-data-standard_11.html>) -- Opinions on how to proceed when legacy data and the future pull in opposite directions.
 
@@ -227,7 +227,7 @@ Tony Proctor, "Supporting a Proof Standard", *Parallax View* (<http://parallax-v
 
 Tony Proctor, "Where are the Standards for Historical Data?", *Parallax View* (<http://parallax-viewpoint.blogspot.com/2013/09/where-are-standards-for-historical-data.html>) -- Examination of standards applicable to history rather than technology.
 
-##Standards (Specific)##
+## Standards (Specific) ##
 
 "ISO 639", *Wikipedia*  (<http://en.wikipedia.org/wiki/ISO_639>) -- Codes for the representation of modern-day languages and language groups.
 
@@ -275,7 +275,7 @@ Louis Kessler, "My Feedback to GEDCOM X", *Louis Kessler's Behold Blog*, 2012-03
 
 "Putting Things in Order: a Directory of Metadata Schemas and Related Standards", *JISC Digital Media* (<http://www.jiscdigitalmedia.ac.uk/guide/putting-things-in-order-links-to-metadata-schemas-and-related-standards>) -- List of formal metadata schemas and related standards giving brief descriptions and links to further information.
 
-##Technologies##
+## Technologies ##
 
 "Dat", *Max Ogden* (<http://dat-data.com/>) -- Dat is an open source project that is intended to provide a streaming interface between every file format anddata storage backend.
 
@@ -293,7 +293,7 @@ Tom Heath & Christian Bizer, "Linked Data: Evolving the Web into a Global Data S
 
 "RDF 1.1 Primer", *World Wide Web Consortium* (<http://www.w3.org/TR/rdf11-primer/>) -- A technical introduction to RDF emphasising the newer non-XML serialisations.
 
-##Transcription##
+## Transcription ##
 
 Bell, Mary McCampbell. "Transcripts and Abstracts". Chapter 16 in E. S. Mills et al., eds. *Professional Genealogy: A Manual for Researchers, Writers, Editors, Lecturers, and Librarians*. Baltimore: Genealogical Publishing Co., 2001. Pages 291–326 -- Covers the standards and the processes for creating various kinds of derivatives, with step-by-step examples.
 
